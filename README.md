@@ -2,7 +2,7 @@
 
 👨‍💻 Desenvolvedor Full Stack em formação | +7 anos de experiência em TI  
 🚀 Apaixonado por resolver problemas reais com tecnologia  
-🔄 Transição de carreira com base sólida em infraestrutura e suporte técnico
+🔄 Transição de carreira com base sólida em suporte técnico
 
 ---
 
