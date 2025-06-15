@@ -55,12 +55,5 @@ Repositório com scripts reais criados para automatizar tarefas técnicas de sup
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeperonica&show_icons=true&theme=midnight-purple&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeperonica&layout=compact&theme=midnight-purple)
-
----
-
 ### Obrigado por visitar meu perfil!  
 > _Se você também acredita que código é mais do que sintaxe, e sim uma ponte para soluções reais, bora trocar uma ideia._ 🚀
