@@ -77,8 +77,6 @@ Aplicação full stack para acompanhamento de treinos, nutrição e progresso, c
   </a>
 </div>
 
----
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=feperonica.feperonica&right_color=orange" alt="Visitors" />
 </div>
