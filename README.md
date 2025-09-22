@@ -1,10 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6600&height=120&section=header"/>
 
-# Eu sou o Felipe Peronica  
-
-💻 **Desenvolvedor Back-End** com experiência em **Spring Boot, SQL, APIs RESTful e Modelagem de Dados**.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6600&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Felipe+Peronica;Desenvolvedor+Back-End;Java+|+Spring+Boot+|+SQL+|+APIs+REST;Sempre+aprendendo+e+evoluindo!)](https://git.io/typing-svg)
+  
 📊 Trago mais de 7 anos de vivência em **TI, infraestrutura e análise de dados**, onde atuei em suporte, liderança técnica e implementação de processos que impactaram diretamente a eficiência das empresas.  
-
 
 ---
 
