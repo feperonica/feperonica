@@ -1,20 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6600&height=120&section=header"/>
 
-# 👋 Olá, eu sou o Felipe Peronica  
+# Eu sou o Felipe Peronica  
 
 💻 **Desenvolvedor Back-End** com experiência em **Spring Boot, SQL, APIs RESTful e Modelagem de Dados**.  
 📊 Trago mais de 7 anos de vivência em **TI, infraestrutura e análise de dados**, onde atuei em suporte, liderança técnica e implementação de processos que impactaram diretamente a eficiência das empresas.  
-🚀 Concluí o **Bootcamp Full Stack Java | React (Generation Brasil)**, desenvolvendo aplicações completas com integração **frontend/backend**, boas práticas de código e metodologias ágeis.  
+
 
 ---
 
 ## 💡 Sobre mim  
 
-- 🎯 Foco em criar **sistemas escaláveis, seguros e bem estruturados**.  
-- 🔍 Atuei na **análise de grandes volumes de dados**, decidindo o que deveria ser higienizado, priorizado e tratado, garantindo consistência para tomadas de decisão.  
+- 🎯 Foco em criar **sistemas escaláveis, seguros e bem estruturados**. 
+- 🔍 Atuei na **análise de grandes volumes de dados**, avaliando consistência, relevância e prioridades para apoiar decisões estratégicas da empresa.  
+- 🚀 Concluí o **Bootcamp Full Stack Java | React (Generation Brasil)**, desenvolvendo aplicações completas com integração **frontend/backend**, boas práticas de código e metodologias ágeis.     
+- 📚 Atualmente curso **Sistemas de Informação**, aprofundando meus conhecimentos em **engenharia de software, arquitetura de sistemas e banco de dados**.  
+- 🔄 Experiência com **metodologias ágeis (Scrum, Kanban)**, aplicadas em projetos reais de desenvolvimento em grupo.
 - 🤝 Valorizo **trabalho em equipe, comunicação clara e colaboração**, acreditando que grandes resultados vêm da soma de talentos.  
-- 📚 Atualmente curso **Sistemas de Informação (Wyden)**, aprofundando meus conhecimentos em **engenharia de software, arquitetura de sistemas e banco de dados**.  
-- 🔄 Experiência com **metodologias ágeis (Scrum, Kanban)**, aplicadas em projetos reais de desenvolvimento em grupo.  
 
 ---
 
@@ -32,7 +33,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Ferramentas & DevOps**  
+**Ferramentas & Infra**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
