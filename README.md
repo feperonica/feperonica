@@ -62,9 +62,9 @@ Aplicação full stack para acompanhamento de treinos, nutrição e progresso, c
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=feperonica&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true&cache_seconds=21600" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feperonica&layout=compact&langs_count=8&theme=transparent&cache_seconds=21600" />
-</div>  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=feperonica&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feperonica&layout=compact&langs_count=8&theme=radical" />
+</div>
 
 ---
 
