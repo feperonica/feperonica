@@ -75,11 +75,13 @@ Aplicação full stack para acompanhamento de treinos, nutrição e progresso, c
   <a href="mailto:felipeperonica@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/feperonica" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
 </div>
 
 ---
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=feperonica.feperonica&right_color=orange" alt="Visitors" />
+</div>
+
+---
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF6600&height=120&section=footer"/>
